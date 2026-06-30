@@ -1,0 +1,1 @@
+# generic-bk7231n
